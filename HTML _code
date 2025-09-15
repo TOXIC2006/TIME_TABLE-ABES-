@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: rgb(221, 216, 160); /* Change to any color you like */
+        }
+    </style>
+</head>
+
+<body>
+    <p align="center"><strong>ABES Engineering College, Ghaziabad<br>
+CLASS TIME TABLE<BR>
+DEPARTMENT: CSE-DS-B<BR>
+Session 2025-26</p>
+    <!-- <table border="10" cellpadding="7" cellspacing="0"  width="100%" align="center" height="150%"   bgcolor="lightyellow">
+        <tr>
+            <th>Name</th>
+            <th>Marks</th>
+            <th>Pass (Yes/No)</th>
+            <th>Result</th>
+        </tr>
+        <tr>
+            <td>Rahul</td>
+            <td>78</td>
+            <td>Yes</td>
+            <td>Passed</td>
+        </tr>
+        <tr>
+            <td>Priya</td>
+            <td>42</td>
+            <td>No</td>
+            <td>Failed</td>
+        </tr>
+        <tr>
+            <td>Amit</td>
+            <td>65</td>
+            <td>Yes</td>
+            <td>Passed</td>
+        </tr>
+    </table> -->
+    <table  border="10" cellpadding="5", heigh="150%" width="100%" align="center"  bgcolor="lightblue">
+        <tr align ="center" BGCOLOR="lightgreen">
+            <td>day</td>
+            <td>8:50-9:40</td>
+            <td>9:40-10:30</td>
+            <td>break</td>
+            <td>10:40-11:30</td>
+            <td>11:30-12:40</td>
+            <td>12:40-1:10</td>
+            <td>1:10-2:00</td>
+            <td>2:00-2:50</td>
+            <td>2:50-3:40</td>
+            <td>3:40-4:30</td>
+
+        </tr>
+        <tr align ="center" BGCOLOR="lightblue">
+            <td>MONDAY</td>
+            <td>DS</td>
+            <td>maths4</td>
+            <td bgcolor="lightyellow"  rowspan="7"> break</td>
+            <td colspan="2"><center>domain training</center></td>
+            <td bgcolor="yellow" rowspan="7">lunch</td>
+            <td colspan="2"><center>FSD</center></td>
+            <td>tehnical Communication</td>
+            <td>Python</td>
+        </tr> 
+        <tr align ="center" BGCOLOR="lightpink">
+            <td>TUESDAY</td>
+            <td>DSTL</td>
+            <td>Python</td>
+         
+            <td><center>DS-LAB</center></td>
+            <td><center>DS-BCS</center></td>
+            <td colspan="2"><center>DSA training</center></td>
+            <td>tehnical Communication</td>
+            <td>maths</td>
+        </tr>
+        <tr align ="center" BGCOLOR="CYAN">
+            <td>Wed</td>
+            <td>FDS</td>
+            <td>Technical Communication</td>
+            <td><center>COA</center></td>
+            <td><center>maths</center></td>
+            <td><center>Python</center></td>
+            <td>DSTL</td>
+            <td>COA</td>
+            <td>DS</td>
+        </tr>  
+        <tr align ="center" BGCOLOR="lightgrey">
+            <td>THU</td>
+            <td>DSA</td>
+            <td>DS-BCS</td>
+            <td><center>domain TR</center></td>
+            <td><center>maths</center></td>
+            <td><center>Soft SKILL</center></td>
+            <td>DSTL</td>
+            <td>COA</td>
+            <td>MENTOR-MENTEE</td>
+        </tr>
+          <tr align ="center" bgcolor="lightcoral">
+            <td>FRI</td>
+            <td>DS-BCS</td>
+            <td>COA-LAB</td>
+            <td colspan="2"><center>FSD</center></td>
+            <td ><center>COA</center></td>
+            <td>maths</td>
+            <td>DSTL</td>
+            <td>Python</td>
+        </tr>  
+       
+
+
+</table>
+
+<!-- <table border="1" cellpadding="7" cellspacing="0">
+    <tr>
+        <th>Name</th>
+        <th>Marks</th>
+        <th colspan="2">Result Info</th> <!-- This header spans 2 columns -->
+    <!-- </tr>
+    <tr>
+        <td rowspan="2">Rahul</td> <!-- This cell spans 2 rows -->
+        <!-- <td>78</td>
+        <td>Yes</td>
+        <td>Passed</td>
+    </tr>
+    <tr>
+        <td>80</td>
+        <td>Yes</td>
+        <td>Passed</td> -->
+    <!-- </tr>
+</table> -->
+
+</body>
+</html>
